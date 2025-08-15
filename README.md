@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>   im software engineering student at Manas University , passionate <br>about exploring and learning <br>🚀 What I'm Up To<br>🤖 Exploring TypeScript<br>💻 Building Spring Boot applications with DeepSeek 
+💫 About Me:<br>   im software engineering student at Manas University , passionate <br>about exploring and learning <br>🚀 What I'm Up To<br>🤖 Exploring TypeScript<br>
 
 
 ## 🌐 Socials:
